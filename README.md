@@ -1,5 +1,8 @@
 # Flask-Opencv-Webview
- Flask ile opencv kullanarak bir Web sitesi üzerinde resimlerimizi işleyebilmekteyiz 
+
+Flask ile Opencv kullanarak bir Web Sitesi Yapanlar Yüz Bulma Anlık Kamera Gösterimi
+ Instant Camera Display of Face Finders on a Website Using Opencv with Flask
+ 
  
 ### Flask - Opencv - Web Trial Face Detection
 
